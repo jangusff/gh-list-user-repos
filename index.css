@@ -26,10 +26,8 @@ ul {
 }
 
 li {
-  padding: 10px;
-}
-
-li, img {
+  padding-left: 7px;
+  padding-top: 7px;
   max-width: 500px;
 }
 
